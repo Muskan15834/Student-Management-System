@@ -21,6 +21,9 @@ A Java-based Student Management System developed using Object-Oriented Programmi
 javac *.java
 java StudentManagementSystem
 ```
+## Sample Output
+
+![Student Management System Output](screenshots/output.png)
 
 ## Author
 
