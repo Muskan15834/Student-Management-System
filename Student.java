@@ -1,4 +1,3 @@
-
 class Student {
 
     int id;
