@@ -24,7 +24,6 @@ java StudentManagementSystem
 ## Sample Output
 
 ![Student Management System Output](screenshots/output.png)
-
 ## Author
 
 Muskan
